@@ -6,5 +6,5 @@
 int main( void )
 {
 	printf( "Welcome " );
-	printf( "to C!\n" );
+	printf( "to Bao\n" );
 } // end function main
